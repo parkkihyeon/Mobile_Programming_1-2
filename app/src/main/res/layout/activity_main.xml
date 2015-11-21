@@ -29,7 +29,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button3"
+        android:text="login"
         android:id="@+id/btnNew3"
         android:onClick="onNewBtnClicked" />
 </LinearLayout>
