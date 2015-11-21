@@ -7,9 +7,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-/**
- * Created by inkyu on 15. 11. 5..
- */
 public class LoginActivity extends Activity {
 
     @Override
